@@ -1,10 +1,63 @@
-As a beginner in the field of Computer Engineering, I am excited to learn and grow my skills. On my GitHub profile, you will find a variety of small projects that showcase my skills in Python and C Programming Language. I am always looking for new opportunities to collaborate with others and contribute to meaningful projects.
+# Hi there! 👋  
 
-I am a quick learner and highly motivated to succeed. I have a strong foundation in HTML, CSS, C and C++ Programming language, and I am always looking for ways to expand my knowledge and expertise.
+I'm **Hamdi**, a **Computer Engineering student**, passionate about building technology that solves real-world problems. My work spans **full-stack development**, **embedded systems**, and **developer infrastructure**—combining low-level understanding with modern tooling.
 
-I am eager to begin my career and make a positive impact in my field. I believe that my passion for technology. Please feel free to take a look at my GitHub profile and reach out if you have any questions or think I could be a good fit for your project 😁.
 
-<!---
-hamdiitarek/hamdiitarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Technical Skills
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdiitarek&layout=compact&theme=radical" alt="Top languages" height="170"/>
+</p>
+
+### 💻 Programming Languages  
+- **Proficient**: Python, C, C++, Dart, JavaScript, Bash, TypeScript, SQL
+
+### 🌐 Web & App Development  
+- **Frontend**: HTML, CSS, TailwindCSS, React, Next.js  
+- **Backend**: Node.js, Express, Appwrite, Firebase, REST APIs  
+- **Mobile**: Flutter (production-ready apps)
+
+### 🧰 Tools & Platforms  
+- Git & GitHub, Vercel, Render, Docker (basic), Postman  
+- CI/CD workflows (Vercel + GitHub Actions)  
+- Appwrite (Auth, DB, Storage, Functions)  
+- Firebase Auth, Firestore, Cloud Functions  
+- Mailchimp (Custom HTML Email templates, automation)
+
+### 🔌 Systems & Infrastructure  
+- Embedded C (NFC, memory optimization, low-level debugging)  
+- DNS & Domain Config (Namecheap, Appwrite, Vercel)  
+- System integration & optimization for performance and memory
+
+### 📚 Currently Learning  
+- Stripe-like payment infrastructure  
+- Advanced software engineering architecture & design patterns
+
+
+## 🚀 Projects & Focus Areas
+
+Check out my [GitHub repositories](https://github.com/hamdiitarek?tab=repositories) to see work that reflects curiosity, technical growth, and practical impact:
+
+- 🔐 **Embedded Systems + NFC**: Optimized low-power system with memory leak fix  
+- 🛒 **Full-stack Platforms**: E-commerce prototype with Appwrite, Next.js, REST APIs  
+- 📱 **Production Mobile App**: Built in Flutter, optimized for performance  
+- ⚙️ **Dev Infrastructure**: CI/CD, DNS, self-hosted APIs, email workflows  
+
+
+## 🌱 Goals & Interests
+
+- 📦 Contribute to open-source and dev tools  
+- 🔍 Build scalable backend systems from scratch  
+- ⚙️ Design secure and efficient embedded systems  
+- 🤝 Collaborate with founders, researchers, and ambitious devs  
+
+## 🤝 Let’s Connect
+
+I’m always excited to:
+- Collaborate on meaningful projects  
+- Exchange ideas with tech-driven minds  
+- Learn from mentors and give back to the community  
+
+Thanks for stopping by! 😊  
+Let’s build something awesome together.
